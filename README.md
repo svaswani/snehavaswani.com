@@ -1,3 +1,3 @@
 # snehavaswani.com
 
-kjhykjh
+This is my personal website.
