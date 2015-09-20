@@ -8,6 +8,16 @@ body {
 	margin: 0;
 	font-family: Dosis, sans-serif;
 }
+
+a {
+	color: #de3961;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
 img {
 	width: 12em;
 	margin-bottom: .75em;
